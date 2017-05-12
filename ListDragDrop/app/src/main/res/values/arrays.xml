@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time">
+
+
+        <item>700am</item>
+        <item>715am</item>
+        <item>730am</item>
+        <item>745am</item>
+
+        <item>800am</item>
+        <item>815am</item>
+        <item>830am</item>
+        <item>845am</item>
+        <item>900am</item>
+        <item>915am</item>
+        <item>930am</item>
+        <item>945am</item>
+        <item>1000am</item>
+        <item>1015am</item>
+        <item>1030am</item>
+        <item>1045am</item>
+        <item>1100am</item>
+        <item>1115am</item>
+        <item>1130am</item>
+        <item>1145am</item>
+        <item>1200pm</item>
+        <item>1215pm</item>
+        <item>1230pm</item>
+        <item>1245pm</item>
+        <item>100pm</item>
+        <item>115pm</item>
+        <item>130pm</item>
+        <item>145pm</item>
+        <item>200pm</item>
+        <item>215pm</item>
+        <item>230pm</item>
+        <item>245pm</item>
+
+    </string-array>
+</resources>

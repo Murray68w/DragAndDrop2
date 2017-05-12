@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigation_save_week"
+            android:icon="@drawable/ic_save_pink_500_24dp"
+            android:title="@string/save_week"/>
+
+    <item
+            android:id="@+id/navigation_new_week"
+            android:icon="@drawable/ic_fiber_new_pink_500_24dp"
+            android:title="@string/title_new"/>
+
+    <item
+            android:id="@+id/navigation_previous"
+            android:icon="@drawable/ic_navigate_before_pink_500_24dp"
+            android:title="@string/title_past"/>
+
+</menu>

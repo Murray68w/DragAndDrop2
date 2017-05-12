@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">DragAndDrop2</string>
+    <string name="title_home">Home</string>
+    <string name="save_week">Save Week</string>
+    <string name="title_save">Save</string>
+    <string name="new_week">New Week</string>
+    <string name="title_new">New</string>
+    <string name="past_weeks">Previous</string>
+    <string name="title_past">Previous</string>
+    //Times
+    <string name="time_700">7:00am</string>
+    <string name="time_730">7:30am</string>
+    <string name="time_800">8:00am</string>
+    <string name="time_830">8:30am</string>
+    <string name="time_900">9:00am</string>
+    <string name="time_930">9:30am</string>
+    <string name="time_1000">10:00am</string>
+    <string name="time_1030">10:30am</string>
+    <string name="time_1100">11:00am</string>
+    <string name="time_1130">11:30am</string>
+    <string name="time_1200">12:00pm</string>
+    <string name="time_1230">12:30pm</string>
+    <string name="time_1300">1:00pm</string>
+    <string name="time_1330">1:30pm</string>
+    <string name="time_1400">2:00pm</string>
+    <string name="time_1430">2:30pm</string>
+    <string name="time_1500">3:00pm</string>
+    <string name="time_1530">3:30pm</string>
+    <string name="time_1600">4:00pm</string>
+    <string name="time_1630">4:30pm</string>
+    <string name="time_1700">5:00pm</string>
+    <string name="time_1730">5:30pm</string>
+    <string name="save_schedule">Save</string>
+
+</resources>
